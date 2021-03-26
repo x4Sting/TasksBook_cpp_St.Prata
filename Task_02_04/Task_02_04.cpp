@@ -8,4 +8,5 @@ int main()
 	cout << "Enter your age: ";
 	cin >> age;
 	cout << "Your age in months is " << age * month << endl;
+	return 0;
 }
